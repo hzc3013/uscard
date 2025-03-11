@@ -134,6 +134,6 @@ def login_and_visit_uscardforum(username, password):
         driver.quit()
 
 if __name__ == "__main__":
-    USERNAME = "hzc3008"
-    PASSWORD = "200812hzc"
+    USERNAME = ""
+    PASSWORD = ""
     login_and_visit_uscardforum(USERNAME, PASSWORD)
