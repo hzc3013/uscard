@@ -1,7 +1,3 @@
-Below is a sample **README.md** you can place in your repository. Feel free to modify the wording, project name, or any details to match your specific setup.
-
----
-
 # USCard Forum Automation
 
 This repository contains a Python script (wrapped in a Flask app) that automatically:
